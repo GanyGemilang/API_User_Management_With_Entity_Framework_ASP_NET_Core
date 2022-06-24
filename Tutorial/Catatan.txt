@@ -1,0 +1,10 @@
+Sumber:
+- CRUD
+https://code-maze.com/asp-net-core-web-api-with-ef-core-db-first-approach/
+
+- Transaction
+https://riptutorial.com/ef-core-advanced-topics/learn/100015/transaction#:~:text=In%20EF%20Core%2C%20you%20can,executed%20in%20a%20single%20transaction.
+
+
+Scaffold-DbContext "Data Source=DESKTOP-P2E31RJ;Initial Catalog=UserManagement;User ID=sa;Password=sapassword;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
